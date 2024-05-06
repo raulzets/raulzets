@@ -23,7 +23,7 @@
 
 Estou atualmente realizando a minha segunda graduação, onde estou 👨‍🎓 cursando 🖥️ Análise e Desenvolvimento de Sistemas.
 
-Com 14 anos de esperiência no ensino superior, atualmente lido com a construção de indicadores 🚀 e a gestão de plataformas 🖥️.
+Com 14 anos de experiência no ensino superior, atualmente lido com a construção de indicadores 🚀 e a gestão de plataformas 🖥️.
 
 [![wakatime](https://wakatime.com/badge/user/aae56827-8e73-4842-9d43-632ab6ffb294.svg)](https://wakatime.com/@aae56827-8e73-4842-9d43-632ab6ffb294)
 
