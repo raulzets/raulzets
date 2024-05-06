@@ -25,12 +25,14 @@ Estou atualmente realizando a minha segunda graduação, onde estou 👨‍🎓 
 
 Com 14 anos de esperiência no ensino superior, atualmente lido com a construção de indicadores 🚀 e a gestão de plataformas 🖥️.
 
-![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulzets&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulzets&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![wakatime](https://wakatime.com/badge/user/aae56827-8e73-4842-9d43-632ab6ffb294.svg)](https://wakatime.com/@aae56827-8e73-4842-9d43-632ab6ffb294)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulzets)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulzets&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
+</a>
+
 
 
