@@ -31,7 +31,7 @@ Com 14 anos de esperiência no ensino superior, atualmente lido com a construç�
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulzets&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulzets&layout=donut" />
 </a>
 
 
