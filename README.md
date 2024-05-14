@@ -19,9 +19,10 @@
 </div>
 <br>
 
-👨‍💻Graduado em Administração de Empresas | 💼 MBA em gestão estratégica de negócios | 💼 MBA em gestão de projetos.
-
-Estou atualmente realizando a minha segunda graduação, onde estou 👨‍🎓 cursando 🖥️ Análise e Desenvolvimento de Sistemas.
+👨‍🎓 cursando 🖥️ Análise e Desenvolvimento de Sistemas
+👨‍💻Graduado em Administração de Empresas 
+💼 MBA em gestão estratégica de negócios
+💼 MBA em gestão de projetos.
 
 Com 14 anos de experiência no ensino superior, atualmente lido com a construção de indicadores 🚀 e a gestão de plataformas 🖥️.
 
