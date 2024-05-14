@@ -19,10 +19,10 @@
 </div>
 <br>
 
-👨‍🎓 cursando 🖥️ Análise e Desenvolvimento de Sistemas
-👨‍💻Graduado em Administração de Empresas 
-💼 MBA em gestão estratégica de negócios
-💼 MBA em gestão de projetos.
+👨‍🎓 cursando 🖥️ Análise e Desenvolvimento de Sistemas<br>
+👨‍💻Graduado em Administração de Empresas <br>
+💼 MBA em gestão estratégica de negócios<br>
+💼 MBA em gestão de projetos<br>
 
 Com 14 anos de experiência no ensino superior, atualmente lido com a construção de indicadores 🚀 e a gestão de plataformas 🖥️.
 
