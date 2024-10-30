@@ -1,5 +1,5 @@
 
-<h1 align="center"> Olá! Eu sou o Raul! ラウル・サントス 🛻</h1>
+<h1 align="center"> Olá! Eu sou o Raul!</h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-santos-199923119/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raulzets/)
